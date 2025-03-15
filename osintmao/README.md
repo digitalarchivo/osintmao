@@ -29,7 +29,7 @@ Follow these steps to deploy this project to GitHub Pages:
 4. **Wait for the deployment**:
    - GitHub Actions will build and deploy your site
    - Once complete, you'll see a message indicating your site is published
-   - Your site will be available at `https://YOUR_USERNAME.github.io/osintmao/`
+   - Your site will be available at `https://digitalarchivo.github.io/osintmao/`
 
 ## Local Development
 
